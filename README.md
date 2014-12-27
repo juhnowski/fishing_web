@@ -1,4 +1,4 @@
 fishing_web
 ===========
 
-Fishing game template
+Fishing game template. Proto of web implementation.
